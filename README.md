@@ -2,6 +2,10 @@
   [Backend] FutureTube
 </h1>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/igoralvesantos/backend-futuretube/master/FutureTube.gif" width="550">
+</p>
+
 ## Stack
 Esse é um projeto de Backend inspirado no Youtube feito utilizando NodeJS, Express, Typescript e MySQL. Além disso, ele segue uma arquitetura em camadas simples:
 1. Presentation: responsável pela comunicação com agentes externos (como o Frontend)
